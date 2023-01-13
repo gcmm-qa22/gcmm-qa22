@@ -1,0 +1,16 @@
+{
+  "Categories": [
+    {
+      "ID": 0,
+      "Name": "Food"
+    },
+    {
+      "ID": 1,
+      "Name": "Beverages"
+    },
+    {
+      "ID": 2,
+      "Name": "Electronics"
+    }
+  ]
+}
